@@ -37,7 +37,3 @@ Make sure Python 3 is installed, then run each file from the terminal:
 python problem1.py
 python problem2.py
 ```
-
-## Author
-
-Your Name
